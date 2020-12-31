@@ -1,4 +1,4 @@
 choco-qtdsync
 =============
 
-This is the chocolatey package for [QtdSync](http://qtdtools.doering-thomas.de).
+This is the [chocolatey package](https://chocolatey.org/packages/qtdsync) for [QtdSync](http://qtdtools.doering-thomas.de).
